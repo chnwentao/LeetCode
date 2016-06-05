@@ -27,12 +27,16 @@ A solution set is:
     使用了两种方法：指针法 & hashset
 
 ## Solutions
-[方案1](./Solution.java)对重复结果的处理的处理 使用判断指针的的方法
-[方案2](./SolutionHash.java)对重复结果的处理的处理 使用HashSet的的方法
-
+### [方案1](./Solution.java)
+对重复结果的处理的处理 使用判断指针的的方法
+Runtime: 9 ms 不错的成绩
+### [方案2](./SolutionHash.java)
+对重复结果的处理的处理 使用HashSet的的方法
+Runtime: 42 ms
+还是指针快啊！
 ## 时间复杂度
 o(n^2)
-
+Runtime: 9 ms 
 ## 注意
 - 如何满足  `List<List<Integer>>` 的返回值的要求？` List<List<Integer>> res = new List<List<Integer>>();`是不合法的.
 
