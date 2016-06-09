@@ -5,6 +5,9 @@ Given a string containing just the characters '(', ')', '{', '}', '[' and ']', d
 
 The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.
 
-##S olution:
-典型的栈应用，用栈解决，复杂度O(n)
+##Solution:
+典型的栈应用，用栈解决，
+
+## performance 
+复杂度O(n)
 Runtime: 2 ms 不错的成绩！
