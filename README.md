@@ -16,3 +16,7 @@ The brackets must close in the correct order, "()" and "()[]{}" are all valid bu
 
 ### [21. Merge Two Sorted Lists](./021. Merge Two Sorted Lists/)
 Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+
+### [28. Implement strStr()](./028. Implement strStr()/)
+Implement strStr().
+Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
