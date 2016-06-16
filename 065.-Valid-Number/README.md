@@ -1,6 +1,5 @@
 # [65. Valid Number](./README.md)
 
-Total Accepted: 47355 Total Submissions: 388066 Difficulty: Hard
 Validate if a given string is numeric.
 
 Some examples:
