@@ -1,4 +1,9 @@
+# 非Leetcode试题目录
+[非Leetcode试题目录eg. baidu 、华为 ](./非Leetcode试题目录/)
+## [有N个大小不等的自然数（1--N）由小到大排序。要求时间复杂度为O(n)，空间复杂度为O(1)](./华为-有N个大小不等的自然数1--N由小到大排序/)
+
 # LeetCode刷题代码及详解
+
 ## 出现频率最高的
 ### [1.Two Sum](./001. Two Sum/) (java)
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
