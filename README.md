@@ -1,4 +1,4 @@
-# LeetCode刷题代码（Java版）
+# LeetCode刷题代码及详解
 ## 出现频率最高的
 ### [1.Two Sum](./001. Two Sum/) (java)
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
@@ -29,7 +29,7 @@ Given `[1,3],[2,6],[8,10],[15,18]`,
 return [`1,6],[8,10],[15,18]`.
 
 ### [57. Insert Interval](./057.-Insert-Interval/) (java)
-Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).
+Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary)H.
 You may assume that the intervals were initially sorted according to their start times.
 
 ### [65. Valid Number](./065.-Valid-Number/) (java)
@@ -38,3 +38,6 @@ Validate if a given string is numeric.
 ### [70. Climbing Stairs](./070. Climbing Stairs/) (python/java)
 You are climbing a stair case. It takes n steps to reach to the top.
 Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+
+[073. Set Matrix Zeroes](./073. Set Matrix Zeroes/)(java)
+Given a m x n matrix, if an element is 0, set its entire row and column to 0. Do it in place.
