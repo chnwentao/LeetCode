@@ -26,19 +26,56 @@ A solution set is:
 - 对重复结果的处理的处理,
     使用了两种方法：指针法 & hashset
 
-## Solutions
-### [方案1](./Solution.java)
+## (java)
+### Solutions
+#### [方案1](./Solution.java)
 对重复结果的处理的处理 使用判断指针的的方法
 Runtime: 9 ms 不错的成绩
-### [方案2](./SolutionHash.java)
+#### [方案2](./SolutionHash.java)
 对重复结果的处理的处理 使用HashSet的的方法
 Runtime: 42 ms
 还是指针快啊！
-## 时间复杂度
+
+### 时间复杂度
 o(n^2)
-Runtime: 9 ms 
-## 注意
+Runtime: 9 ms
+### 注意
 - 如何满足  `List<List<Integer>>` 的返回值的要求？` List<List<Integer>> res = new List<List<Integer>>();`是不合法的.
 
-## 我踩过的坑
+### 我踩过的坑
 - 和 `int sum = num[left] + num[right] + num[i];` 定义的位置—— 要在最里边的循环！
+
+## python code
+```py
+class Solution(object):
+    def threeSum(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+        # 边界
+        if len(n) < 3:
+            return
+        if len(n) == 3:
+            return nums
+
+        res = set()
+
+        nums.sort()
+        n = len(nums)
+        for i in range(n-3):
+            d = {}
+            target = -sums[i]
+
+            # 2sum
+            for j in range(i + 1， n):
+                if target - nums[j] in d:
+                    res.add([target, nums[j], d[target - nums[j]]].sort())
+                else:
+                    d[nums[j]] = j
+
+        return list(res)
+
+
+
+```
