@@ -1,0 +1,734 @@
+[W 13:49:35.351 NotebookApp] Cannot bind to localhost, using 127.0.0.1 as default ip
+    [Errno 8] nodename nor servname provided, or not known
+[I 13:49:36.213 NotebookApp] Loaded extension jupyter_nbextensions_configurator
+[I 13:49:36.297 NotebookApp] JupyterLab extension loaded from /Users/wente/anaconda/lib/python2.7/site-packages/jupyterlab
+[I 13:49:36.297 NotebookApp] JupyterLab application directory is /Users/wente/anaconda/share/jupyter/lab
+[I 13:49:36.330 NotebookApp] Serving notebooks from local directory: /Users/wente/Library/Mobile Documents/com~apple~CloudDocs/基础算法
+[I 13:49:36.330 NotebookApp] The Jupyter Notebook is running at:
+[I 13:49:36.330 NotebookApp] http://127.0.0.1:8888/?token=77edf0143bbf0710084372e1c3379474c27bc17ea460c550
+[I 13:49:36.330 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:49:36.340 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/wente/Library/Jupyter/runtime/nbserver-2898-open.html
+    Or copy and paste one of these URLs:
+        http://127.0.0.1:8888/?token=77edf0143bbf0710084372e1c3379474c27bc17ea460c550
+[I 13:49:58.406 NotebookApp] Creating new notebook in /Array
+[I 13:50:02.042 NotebookApp] Kernel started: 481da374-8416-4675-a017-1dfad7d7adae
+[I 13:50:03.768 NotebookApp] Adapting to protocol v5.1 for kernel 481da374-8416-4675-a017-1dfad7d7adae
+[I 13:51:40.391 NotebookApp] Saving file at /Array/268：Missing Number(寻找缺失数字).ipynb
+[I 13:54:01.950 NotebookApp] Saving file at /Array/268：Missing Number(寻找缺失数字).ipynb
+[I 13:56:01.948 NotebookApp] Saving file at /Array/268：Missing Number(寻找缺失数字).ipynb
+[I 13:58:02.077 NotebookApp] Saving file at /Array/268：Missing Number(寻找缺失数字).ipynb
+[I 14:02:02.103 NotebookApp] Saving file at /Array/268：Missing Number(寻找缺失数字).ipynb
+[I 14:04:36.297 NotebookApp] Saving file at /基础算法总结.md
+[I 14:04:36.985 NotebookApp] Saving file at /基础算法总结.md
+[I 14:04:50.904 NotebookApp] Saving file at /Array/268：Missing Number(寻找缺失数字).ipynb
+[I 14:04:51.317 NotebookApp] Saving file at /Array/268：Missing Number(寻找缺失数字).ipynb
+[I 14:04:51.505 NotebookApp] Saving file at /Array/268：Missing Number(寻找缺失数字).ipynb
+[I 14:04:52.059 NotebookApp] Saving file at /Array/268：Missing Number(寻找缺失数字).ipynb
+[I 14:04:52.247 NotebookApp] Saving file at /Array/268：Missing Number(寻找缺失数字).ipynb
+[I 14:04:52.417 NotebookApp] Saving file at /Array/268：Missing Number(寻找缺失数字).ipynb
+[I 14:05:03.985 NotebookApp] Creating new notebook in /Array
+[I 14:05:06.633 NotebookApp] Kernel started: ce509fe1-3a52-4689-8c75-eede0c514ca9
+[I 14:05:08.193 NotebookApp] Adapting to protocol v5.1 for kernel ce509fe1-3a52-4689-8c75-eede0c514ca9
+[I 14:05:34.646 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:05:35.233 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:05:35.423 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:06:04.780 NotebookApp] Starting buffering for 481da374-8416-4675-a017-1dfad7d7adae:0235aeb5b5314f9ab346e25059de71d8
+[I 14:07:06.620 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:14:51.170 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:15:06.657 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:17:07.272 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:19:06.670 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:19:25.345 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:19:28.743 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:27:06.691 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:28:14.165 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:29:06.696 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:30:39.020 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:30:39.241 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:31:10.138 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:01.935 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:02.204 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:02.445 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:02.616 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:02.765 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:02.926 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:03.099 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:03.266 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:03.437 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:03.614 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:03.800 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:03.968 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:04.633 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:04.801 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:04.974 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:05.150 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:33:05.357 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:34:31.500 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:34:31.660 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:34:42.546 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:34:42.759 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:34:42.885 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 14:36:08.562 NotebookApp] Adapting to protocol v5.1 for kernel 481da374-8416-4675-a017-1dfad7d7adae
+[I 14:36:13.971 NotebookApp] Starting buffering for 481da374-8416-4675-a017-1dfad7d7adae:6af3687304a34a228ded5b49b88aea11
+[I 14:40:59.297 NotebookApp] Kernel started: 4805b5cb-9b33-4d81-814f-764293c6bafc
+[I 14:41:01.143 NotebookApp] Adapting to protocol v5.1 for kernel 4805b5cb-9b33-4d81-814f-764293c6bafc
+[I 14:51:51.759 NotebookApp] Creating new notebook in 
+[I 14:51:55.005 NotebookApp] Kernel started: 03642edc-8378-4d8d-89b9-80a002939664
+[I 14:51:56.922 NotebookApp] Adapting to protocol v5.1 for kernel 03642edc-8378-4d8d-89b9-80a002939664
+[I 14:53:55.027 NotebookApp] Saving file at /tmp.ipynb
+[I 15:15:15.258 NotebookApp] Saving file at /堆_堆和对排序.ipynb
+[I 15:15:47.572 NotebookApp] Saving file at /堆_堆和对排序.ipynb
+[I 15:15:48.093 NotebookApp] Saving file at /堆_堆和对排序.ipynb
+[I 15:15:48.283 NotebookApp] Saving file at /堆_堆和对排序.ipynb
+[I 15:16:12.599 NotebookApp] Starting buffering for 4805b5cb-9b33-4d81-814f-764293c6bafc:f3df5080fe0e41e581443a010b9c04c3
+[I 15:16:12.972 NotebookApp] Starting buffering for ce509fe1-3a52-4689-8c75-eede0c514ca9:7a00787e39d04f7f819858b9af40702f
+[I 15:31:52.837 NotebookApp] 302 GET / (127.0.0.1) 7.78ms
+[I 15:32:57.271 NotebookApp] Creating new notebook in /Array
+[I 15:33:00.776 NotebookApp] Kernel started: 7019eca2-ce08-4749-84ce-727eb01c8f72
+[I 15:33:03.191 NotebookApp] Adapting to protocol v5.1 for kernel 7019eca2-ce08-4749-84ce-727eb01c8f72
+[I 15:34:39.174 NotebookApp] Saving file at /Array/将一个矩阵翻转90度.ipynb
+[I 15:35:00.744 NotebookApp] Saving file at /Array/将一个矩阵翻转90度.ipynb
+[I 15:36:06.430 NotebookApp] Saving file at /Array/将一个矩阵翻转90度.ipynb
+[I 15:36:06.592 NotebookApp] Saving file at /Array/将一个矩阵翻转90度.ipynb
+[I 15:36:06.761 NotebookApp] Saving file at /Array/将一个矩阵翻转90度.ipynb
+[I 15:36:06.921 NotebookApp] Saving file at /Array/将一个矩阵翻转90度.ipynb
+[I 15:36:07.100 NotebookApp] Saving file at /Array/将一个矩阵翻转90度.ipynb
+[I 15:36:10.668 NotebookApp] Starting buffering for 7019eca2-ce08-4749-84ce-727eb01c8f72:77d43777b2534477adee2b10981bf618
+[I 18:30:46.458 NotebookApp] 302 GET / (127.0.0.1) 12.80ms
+[I 18:31:11.123 NotebookApp] Creating new notebook in /Array
+[I 18:31:14.199 NotebookApp] Kernel started: 3455de57-113a-49df-a198-63049288c870
+[I 18:31:16.405 NotebookApp] Adapting to protocol v5.1 for kernel 3455de57-113a-49df-a198-63049288c870
+[I 18:33:15.674 NotebookApp] Saving file at /Array/只出现一次的数字 .ipynb
+[I 18:35:15.306 NotebookApp] Saving file at /Array/只出现一次的数字 .ipynb
+[I 18:37:15.205 NotebookApp] Saving file at /Array/只出现一次的数字 .ipynb
+[I 18:39:30.465 NotebookApp] Starting buffering for 3455de57-113a-49df-a198-63049288c870:75e3ea7fb56f40b988d3de195da252ac
+[I 19:01:03.456 NotebookApp] 302 GET / (127.0.0.1) 11.15ms
+[I 19:01:17.954 NotebookApp] Creating new notebook in /动态规划问题
+[I 19:01:20.641 NotebookApp] Kernel started: 66c9416d-de74-4b44-bee3-5f3fb3174d45
+[I 19:01:22.293 NotebookApp] Adapting to protocol v5.1 for kernel 66c9416d-de74-4b44-bee3-5f3fb3174d45
+[I 19:03:20.631 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:03:46.242 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:11:21.378 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:14:08.121 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:15:03.956 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:15:08.725 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:15:20.657 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:15:56.026 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:16:33.334 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:16:34.750 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:16:44.128 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:16:45.027 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:16:45.310 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:17:20.661 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:17:34.621 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:18:05.138 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 19:19:16.815 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 09:28:19.126 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 09:28:24.977 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 09:28:26.924 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 09:28:27.126 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 09:28:27.309 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 09:28:27.480 NotebookApp] Saving file at /动态规划问题/鸡蛋掉落.ipynb
+[I 09:54:14.010 NotebookApp] Starting buffering for 03642edc-8378-4d8d-89b9-80a002939664:34d2876271074b5590985a4386d8c998
+[I 09:54:14.858 NotebookApp] Starting buffering for 66c9416d-de74-4b44-bee3-5f3fb3174d45:1371ef8377c3469a9a6648cdf8fc3184
+[C 09:59:10.876 NotebookApp] received signal 15, stopping
+[I 09:59:10.882 NotebookApp] Shutting down 7 kernels
+[I 09:59:11.317 NotebookApp] Kernel shutdown: 4805b5cb-9b33-4d81-814f-764293c6bafc
+[I 09:59:11.319 NotebookApp] Kernel shutdown: 66c9416d-de74-4b44-bee3-5f3fb3174d45
+[I 09:59:11.321 NotebookApp] Kernel shutdown: 481da374-8416-4675-a017-1dfad7d7adae
+[I 09:59:11.322 NotebookApp] Kernel shutdown: 3455de57-113a-49df-a198-63049288c870
+[I 09:59:11.323 NotebookApp] Kernel shutdown: 7019eca2-ce08-4749-84ce-727eb01c8f72
+[I 09:59:11.323 NotebookApp] Kernel shutdown: ce509fe1-3a52-4689-8c75-eede0c514ca9
+[I 09:59:11.324 NotebookApp] Kernel shutdown: 03642edc-8378-4d8d-89b9-80a002939664
+[W 10:36:53.198 NotebookApp] Cannot bind to localhost, using 127.0.0.1 as default ip
+    [Errno 8] nodename nor servname provided, or not known
+[I 10:36:53.778 NotebookApp] Loaded extension jupyter_nbextensions_configurator
+[I 10:36:53.852 NotebookApp] JupyterLab extension loaded from /Users/wente/anaconda/lib/python2.7/site-packages/jupyterlab
+[I 10:36:53.852 NotebookApp] JupyterLab application directory is /Users/wente/anaconda/share/jupyter/lab
+[I 10:36:53.878 NotebookApp] Serving notebooks from local directory: /Users/wente/Library/Mobile Documents/com~apple~CloudDocs/基础算法
+[I 10:36:53.878 NotebookApp] The Jupyter Notebook is running at:
+[I 10:36:53.878 NotebookApp] http://127.0.0.1:8888/?token=dfbf621feb51b80169446eacf66b74a5a704d5845af4d803
+[I 10:36:53.879 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:36:53.887 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/wente/Library/Jupyter/runtime/nbserver-2467-open.html
+    Or copy and paste one of these URLs:
+        http://127.0.0.1:8888/?token=dfbf621feb51b80169446eacf66b74a5a704d5845af4d803
+[I 10:37:27.563 NotebookApp] Creating new notebook in /动态规划问题
+[I 10:37:30.772 NotebookApp] Kernel started: 14085527-ba9f-4c7d-99e6-e6afc7247b66
+[I 10:37:32.157 NotebookApp] Adapting to protocol v5.1 for kernel 14085527-ba9f-4c7d-99e6-e6afc7247b66
+[I 10:39:30.740 NotebookApp] Saving file at /动态规划问题/410. 分割数组的最大值.ipynb
+[I 10:41:30.895 NotebookApp] Saving file at /动态规划问题/410. 分割数组的最大值.ipynb
+[I 10:45:21.599 NotebookApp] Saving file at /动态规划问题/410. 分割数组的最大值.ipynb
+[I 11:00:00.457 NotebookApp] Starting buffering for 14085527-ba9f-4c7d-99e6-e6afc7247b66:d03f0dbfd7a14de98f6918a27dec0a06
+[I 11:25:20.897 NotebookApp] 302 GET / (127.0.0.1) 1.55ms
+[I 11:25:20.908 NotebookApp] 302 GET /tree? (127.0.0.1) 2.42ms
+[I 11:25:42.824 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 3.35ms
+[I 11:25:54.479 NotebookApp] Kernel started: ffcc5b1f-02ca-4fdc-a0e8-a682d3d6d125
+[I 11:25:56.070 NotebookApp] Adapting to protocol v5.1 for kernel ffcc5b1f-02ca-4fdc-a0e8-a682d3d6d125
+[I 11:26:37.929 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:26:38.370 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:26:38.565 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:26:38.720 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:27:54.476 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:28:31.454 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:29:54.485 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:31:57.363 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:32:15.604 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:32:42.885 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:33:54.491 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:35:40.405 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:35:54.492 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:37:55.243 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:39:54.502 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:40:12.888 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:40:13.431 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:40:13.643 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:41:54.512 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 11:43:55.255 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:47:25.611 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:47:57.729 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:51:13.437 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:51:25.603 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:51:53.230 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:51:56.770 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:52:17.052 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:52:17.544 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:52:17.724 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:52:24.641 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:52:25.196 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:52:26.184 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:53:25.606 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:54:54.228 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:54:57.837 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:55:25.611 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:57:26.345 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:57:40.273 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:57:40.752 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:57:40.947 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:57:42.660 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:57:43.564 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:57:43.736 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:57:44.432 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:57:44.644 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 12:57:44.789 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 13:00:40.860 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 13:00:41.019 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 13:00:41.208 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 13:00:41.363 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 16:07:49.252 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 16:07:49.436 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 16:07:49.620 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 18:24:15.352 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 18:24:15.487 NotebookApp] Saving file at /Array/合并两个有序数组.ipynb
+[I 18:24:18.071 NotebookApp] Starting buffering for ffcc5b1f-02ca-4fdc-a0e8-a682d3d6d125:52091ce2e17d408eb50200ab1447cc24
+[I 11:10:14.446 NotebookApp] 302 GET / (127.0.0.1) 31.69ms
+[I 11:10:24.728 NotebookApp] Creating new notebook in 
+[I 11:10:27.079 NotebookApp] Kernel started: 94ac9395-c49f-480e-9249-25e86ad99b56
+[I 11:10:29.050 NotebookApp] Adapting to protocol v5.1 for kernel 94ac9395-c49f-480e-9249-25e86ad99b56
+[I 11:12:27.050 NotebookApp] Saving file at /125.验证回文串.ipynb
+[I 11:14:27.087 NotebookApp] Saving file at /125.验证回文串.ipynb
+[I 11:16:27.793 NotebookApp] Saving file at /125.验证回文串.ipynb
+[I 11:18:27.074 NotebookApp] Saving file at /125.验证回文串.ipynb
+[I 11:20:27.077 NotebookApp] Saving file at /125.验证回文串.ipynb
+[I 11:22:27.520 NotebookApp] Saving file at /125.验证回文串.ipynb
+[I 11:23:53.748 NotebookApp] Saving file at /125.验证回文串.ipynb
+[I 11:24:24.926 NotebookApp] Saving file at /基础算法总结.md
+[I 11:25:42.144 NotebookApp] Starting buffering for 94ac9395-c49f-480e-9249-25e86ad99b56:9ab33778f313414e8e654e914baf2683
+[I 11:25:49.779 NotebookApp] Creating new notebook in 
+[I 11:25:51.914 NotebookApp] Kernel started: 3a76e767-1256-491f-8ebd-00dc44606a4d
+[I 11:25:53.337 NotebookApp] Adapting to protocol v5.1 for kernel 3a76e767-1256-491f-8ebd-00dc44606a4d
+[W 11:26:15.571 NotebookApp] 404 GET /static/components/preact/preact.min.js.map (127.0.0.1) 35.50ms referer=None
+[W 11:26:15.609 NotebookApp] 404 GET /static/components/proptypes/index.js.map (127.0.0.1) 16.22ms referer=None
+[W 11:26:15.626 NotebookApp] 404 GET /static/components/preact-compat/preact-compat.min.js.map (127.0.0.1) 13.83ms referer=None
+[I 11:26:23.034 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 11:51:51.985 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 11:52:21.450 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 11:53:13.435 NotebookApp] Adapting to protocol v5.1 for kernel 14085527-ba9f-4c7d-99e6-e6afc7247b66
+[I 11:53:19.390 NotebookApp] Starting buffering for 14085527-ba9f-4c7d-99e6-e6afc7247b66:e04f69fb6ccd41fab175ea5dacd07171
+[I 11:53:26.057 NotebookApp] Kernel started: ef00322b-0444-45d9-b0b5-76553ab6f192
+[I 11:53:27.531 NotebookApp] Adapting to protocol v5.1 for kernel ef00322b-0444-45d9-b0b5-76553ab6f192
+[I 11:53:45.161 NotebookApp] Kernel started: 541f67f4-e02a-433e-8670-c0f11f4277ce
+[I 11:53:46.527 NotebookApp] Adapting to protocol v5.1 for kernel 541f67f4-e02a-433e-8670-c0f11f4277ce
+[I 11:54:54.307 NotebookApp] Kernel started: 9c0c6ba8-2c3e-4177-9dbf-a085dad8a14d
+[I 11:54:55.634 NotebookApp] Adapting to protocol v5.1 for kernel 9c0c6ba8-2c3e-4177-9dbf-a085dad8a14d
+[I 11:55:17.103 NotebookApp] Starting buffering for 541f67f4-e02a-433e-8670-c0f11f4277ce:8bcbcaee5a2245338affb16823a7d7ad
+[I 11:55:18.823 NotebookApp] Starting buffering for ef00322b-0444-45d9-b0b5-76553ab6f192:c0491bc46e5944438fd2f8897748bc13
+[I 11:55:27.226 NotebookApp] Saving file at /基础算法总结.md
+[I 11:55:45.046 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 11:59:51.987 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 13:57:52.238 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 13:58:13.583 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 13:59:52.227 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:01:53.957 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:02:27.513 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:03:52.234 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:04:40.767 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:07:52.240 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:09:52.246 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:10:24.989 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:10:27.126 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:11:52.249 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:13:52.248 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:15:52.537 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:16:46.948 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:16:52.186 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:16:52.395 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:16:57.487 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:17:52.556 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:19:49.502 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:21:18.947 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:21:30.474 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:23:33.108 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:25:38.583 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:25:45.605 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:25:50.612 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:25:57.947 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:26:16.444 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:27:52.277 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:28:23.629 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:29:52.276 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:30:03.729 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:32:42.968 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:34:54.631 NotebookApp] Saving file at /动态规划问题/078. dfs_子集.ipynb
+[I 14:35:19.713 NotebookApp] Creating new file in 
+[I 14:35:42.507 NotebookApp] Creating new directory in 
+[I 14:36:11.346 NotebookApp] Creating new file in /dfs
+[I 14:36:55.505 NotebookApp] Saving file at /动态规划问题/078. dfs_子集.ipynb
+[I 14:37:58.716 NotebookApp] Saving file at /dfs/README.md
+[I 14:39:33.503 NotebookApp] Saving file at /dfs/README.md
+[I 14:43:52.307 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:44:59.828 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:45:23.618 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:45:29.603 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:45:52.308 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:45:55.418 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 14:59:52.338 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:01:52.334 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:03:52.343 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:05:22.217 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:05:49.847 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:07:52.350 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:09:52.352 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:10:01.862 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:10:05.591 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:11:52.355 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:13:47.718 NotebookApp] Saving file at /dfs/README.md
+[I 15:13:52.661 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:15:29.356 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:15:31.215 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:15:52.579 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:16:12.615 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:16:17.745 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:16:26.584 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:16:52.200 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:19:52.372 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:35:47.282 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:36:09.759 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:36:19.884 NotebookApp] Saving file at /131.分割回文串.ipynb
+[I 15:38:52.002 NotebookApp] Starting buffering for 9c0c6ba8-2c3e-4177-9dbf-a085dad8a14d:bdaf0ff09aa04a779da97a4a27f28ffa
+[I 15:39:01.360 NotebookApp] Creating new notebook in /String
+[I 15:39:03.579 NotebookApp] Kernel started: 320f0219-6c6b-4e16-8709-31728f2cfca5
+[I 15:39:05.209 NotebookApp] Adapting to protocol v5.1 for kernel 320f0219-6c6b-4e16-8709-31728f2cfca5
+[I 15:39:12.324 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:39:13.676 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:39:53.124 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:40:09.912 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:41:03.570 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:43:03.805 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:44:32.215 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:47:03.757 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:49:03.585 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:49:05.274 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:49:48.708 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:51:03.586 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:51:30.613 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:52:09.586 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:53:03.588 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 15:55:03.686 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 16:03:03.614 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 16:05:03.665 NotebookApp] Saving file at /String/030.动态规划-单词拆分-Leetcode 139（python）.ipynb
+[I 16:05:39.074 NotebookApp] Starting buffering for 3a76e767-1256-491f-8ebd-00dc44606a4d:b834b31f17514a67aeae82e8ba7a7b01
+[I 16:06:42.444 NotebookApp] Creating new notebook in /动态规划问题
+[I 16:06:44.671 NotebookApp] Kernel started: 5bf6c0bb-d801-43d8-b928-4a7404450119
+[I 16:06:46.413 NotebookApp] Adapting to protocol v5.1 for kernel 5bf6c0bb-d801-43d8-b928-4a7404450119
+[I 16:08:08.282 NotebookApp] Saving file at /String/139. 单词拆分.ipynb
+[I 16:08:08.429 NotebookApp] Saving file at /String/139. 单词拆分.ipynb
+[I 16:08:09.279 NotebookApp] Starting buffering for 320f0219-6c6b-4e16-8709-31728f2cfca5:b893723d044f49dd824826f406979727
+[I 16:08:45.704 NotebookApp] Saving file at /动态规划问题/140.单词拆分-ii doing.ipynb
+[I 16:09:01.793 NotebookApp] Creating new notebook in 
+[I 16:09:04.141 NotebookApp] Kernel started: eb4f5934-e561-4d8d-bf5f-c36c00036461
+[I 16:09:05.753 NotebookApp] Adapting to protocol v5.1 for kernel eb4f5934-e561-4d8d-bf5f-c36c00036461
+[I 16:11:04.843 NotebookApp] Saving file at /215.数组中的第k个最大元素 堆.ipynb
+[I 09:00:41.989 NotebookApp] Adapting to protocol v5.1 for kernel 320f0219-6c6b-4e16-8709-31728f2cfca5
+[I 09:00:58.048 NotebookApp] Starting buffering for 320f0219-6c6b-4e16-8709-31728f2cfca5:8067ec3a69b540828d3e487f059b847d
+[I 09:00:59.303 NotebookApp] Starting buffering for eb4f5934-e561-4d8d-bf5f-c36c00036461:4cc11f4729e9441490357b971689f2de
+[I 09:01:02.233 NotebookApp] Starting buffering for 5bf6c0bb-d801-43d8-b928-4a7404450119:ef38972ddfac4428880643c190df8941
+[C 18:10:32.158 NotebookApp] received signal 15, stopping
+[I 18:10:32.168 NotebookApp] Shutting down 10 kernels
+[I 18:10:32.707 NotebookApp] Kernel shutdown: ffcc5b1f-02ca-4fdc-a0e8-a682d3d6d125
+[I 18:10:32.710 NotebookApp] Kernel shutdown: 9c0c6ba8-2c3e-4177-9dbf-a085dad8a14d
+[I 18:10:32.711 NotebookApp] Kernel shutdown: eb4f5934-e561-4d8d-bf5f-c36c00036461
+[I 18:10:32.713 NotebookApp] Kernel shutdown: 320f0219-6c6b-4e16-8709-31728f2cfca5
+[I 18:10:32.714 NotebookApp] Kernel shutdown: 3a76e767-1256-491f-8ebd-00dc44606a4d
+[I 18:10:32.715 NotebookApp] Kernel shutdown: ef00322b-0444-45d9-b0b5-76553ab6f192
+[I 18:10:32.716 NotebookApp] Kernel shutdown: 541f67f4-e02a-433e-8670-c0f11f4277ce
+[I 18:10:32.716 NotebookApp] Kernel shutdown: 5bf6c0bb-d801-43d8-b928-4a7404450119
+[I 18:10:32.717 NotebookApp] Kernel shutdown: 94ac9395-c49f-480e-9249-25e86ad99b56
+[I 18:10:32.718 NotebookApp] Kernel shutdown: 14085527-ba9f-4c7d-99e6-e6afc7247b66
+[W 19:50:52.804 NotebookApp] Cannot bind to localhost, using 127.0.0.1 as default ip
+    [Errno 8] nodename nor servname provided, or not known
+[I 19:50:53.405 NotebookApp] Loaded extension jupyter_nbextensions_configurator
+[I 19:50:53.500 NotebookApp] JupyterLab extension loaded from /Users/wente/anaconda/lib/python2.7/site-packages/jupyterlab
+[I 19:50:53.500 NotebookApp] JupyterLab application directory is /Users/wente/anaconda/share/jupyter/lab
+[I 19:50:53.549 NotebookApp] Serving notebooks from local directory: /Users/wente/Library/Mobile Documents/com~apple~CloudDocs/基础算法
+[I 19:50:53.550 NotebookApp] The Jupyter Notebook is running at:
+[I 19:50:53.550 NotebookApp] http://127.0.0.1:8888/?token=0256df2173e757057436ca5e4292e7f36cb4730c2b3c2d69
+[I 19:50:53.550 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:50:53.562 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/wente/Library/Jupyter/runtime/nbserver-4114-open.html
+    Or copy and paste one of these URLs:
+        http://127.0.0.1:8888/?token=0256df2173e757057436ca5e4292e7f36cb4730c2b3c2d69
+[I 19:51:07.892 NotebookApp] Creating new notebook in /number
+[I 19:51:10.344 NotebookApp] Kernel started: 0d679382-f00d-45f5-bf53-9451e94ae1b0
+[I 19:51:11.894 NotebookApp] Adapting to protocol v5.1 for kernel 0d679382-f00d-45f5-bf53-9451e94ae1b0
+[I 19:52:13.314 NotebookApp] Creating new notebook in /number
+[I 19:52:16.481 NotebookApp] Kernel started: a81000db-4875-4d0c-bc35-fa1c861ecc19
+[I 19:52:17.792 NotebookApp] Adapting to protocol v5.1 for kernel a81000db-4875-4d0c-bc35-fa1c861ecc19
+[I 19:53:10.478 NotebookApp] Saving file at /number/149.直线上最多的点数_H doing.ipynb
+[I 19:54:17.440 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:03:15.244 NotebookApp] Starting buffering for 0d679382-f00d-45f5-bf53-9451e94ae1b0:05910506cfb34ee2935dfe0c465b99de
+[I 20:04:17.498 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:10:17.508 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:12:16.510 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:13:07.493 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:13:30.037 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:15:20.673 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:15:21.221 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:16:16.519 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:17:33.155 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:35:20.905 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:35:21.394 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:35:21.710 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:35:37.708 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:35:39.295 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 20:35:42.274 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:12:58.522 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:13:05.668 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:14:06.296 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:14:08.946 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:14:09.192 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:14:09.377 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:14:10.650 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:14:10.863 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:14:18.088 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:15:53.376 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:15:53.923 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:15:54.121 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:15:54.276 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:15:56.788 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:16:16.648 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:16:27.438 NotebookApp] Kernel interrupted: a81000db-4875-4d0c-bc35-fa1c861ecc19
+[I 21:18:16.655 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:20:16.661 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:22:16.679 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[I 21:24:17.707 NotebookApp] Saving file at /number/166 分数到小数 M .ipynb
+[W 19:16:17.030 NotebookApp] Cannot bind to localhost, using 127.0.0.1 as default ip
+    [Errno 8] nodename nor servname provided, or not known
+[I 19:16:17.611 NotebookApp] Loaded extension jupyter_nbextensions_configurator
+[I 19:16:17.685 NotebookApp] JupyterLab extension loaded from /Users/wente/anaconda/lib/python2.7/site-packages/jupyterlab
+[I 19:16:17.686 NotebookApp] JupyterLab application directory is /Users/wente/anaconda/share/jupyter/lab
+[I 19:16:17.709 NotebookApp] Serving notebooks from local directory: /Users/wente/Library/Mobile Documents/com~apple~CloudDocs/基础算法
+[I 19:16:17.709 NotebookApp] The Jupyter Notebook is running at:
+[I 19:16:17.709 NotebookApp] http://127.0.0.1:8888/?token=70dba7afc9be4e1107cf41e0c5702113f8b069cfa3761851
+[I 19:16:17.710 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:16:17.718 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/wente/Library/Jupyter/runtime/nbserver-14608-open.html
+    Or copy and paste one of these URLs:
+        http://127.0.0.1:8888/?token=70dba7afc9be4e1107cf41e0c5702113f8b069cfa3761851
+[I 19:32:45.664 NotebookApp] 302 GET / (127.0.0.1) 2.45ms
+[I 19:55:09.886 NotebookApp] Creating new notebook in /Array
+[I 19:55:14.481 NotebookApp] Kernel started: 6f312a28-bfa2-46ab-a67e-77f73199907b
+[I 19:55:16.248 NotebookApp] Adapting to protocol v5.1 for kernel 6f312a28-bfa2-46ab-a67e-77f73199907b
+[I 19:57:22.488 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:03:14.368 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:05:14.358 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:05:43.383 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:07:14.541 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:09:14.543 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:10:23.238 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:11:14.387 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:11:33.266 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:12:03.443 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:13:14.550 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:15:14.607 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:17:14.603 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:19:14.390 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:21:14.396 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:21:26.236 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:21:26.420 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:21:26.536 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 20:31:04.461 NotebookApp] Kernel started: 91f3190f-1035-4e5b-ac1c-9a53379b4e86
+[I 20:31:06.169 NotebookApp] Adapting to protocol v5.1 for kernel 91f3190f-1035-4e5b-ac1c-9a53379b4e86
+[I 20:31:19.598 NotebookApp] Adapting to protocol v5.1 for kernel 6f312a28-bfa2-46ab-a67e-77f73199907b
+[I 21:10:26.116 NotebookApp] Saving file at /Array/ 347 前K个高频元素.ipynb
+[I 21:10:27.026 NotebookApp] Starting buffering for 6f312a28-bfa2-46ab-a67e-77f73199907b:d0ce2b04efa14b42857cd313cc194dce
+[I 21:13:34.520 NotebookApp] Starting buffering for 91f3190f-1035-4e5b-ac1c-9a53379b4e86:c51dd07f01604ce0b5ee6bbb2a471d0b
+[I 21:41:21.449 NotebookApp] Creating new notebook in 
+[I 21:41:24.112 NotebookApp] Kernel started: 4f01f76f-bdc5-4b17-8de1-5e7f7e831048
+[I 21:41:25.899 NotebookApp] Adapting to protocol v5.1 for kernel 4f01f76f-bdc5-4b17-8de1-5e7f7e831048
+[I 21:43:24.102 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:43:46.122 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:45:24.109 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:45:28.363 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:47:18.703 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:47:23.175 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:47:23.352 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:50:48.645 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:50:49.485 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:50:49.667 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:50:50.281 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:51:24.113 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:53:24.117 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:55:02.145 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:55:21.078 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:55:21.556 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:55:21.766 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:56:11.193 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:56:11.416 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:56:53.524 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:56:53.970 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:56:54.182 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:56:54.363 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:57:24.125 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:57:51.422 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:57:51.918 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:57:52.094 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:58:56.218 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:58:56.392 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:58:56.584 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:58:56.756 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:58:57.384 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:58:57.594 NotebookApp] Saving file at /堆_最大堆_最小堆 python 实现.ipynb
+[I 21:59:01.028 NotebookApp] Starting buffering for 4f01f76f-bdc5-4b17-8de1-5e7f7e831048:b98afeea020849a484dc9b5445348a0e
+[I 09:56:30.201 NotebookApp] Adapting to protocol v5.1 for kernel 91f3190f-1035-4e5b-ac1c-9a53379b4e86
+[I 09:56:39.656 NotebookApp] Starting buffering for 91f3190f-1035-4e5b-ac1c-9a53379b4e86:0ff03329e7be4b398c92c637d85a215b
+[W 18:11:43.949 NotebookApp] Cannot bind to localhost, using 127.0.0.1 as default ip
+    [Errno 8] nodename nor servname provided, or not known
+[I 18:11:44.449 NotebookApp] The port 8888 is already in use, trying another port.
+[I 18:11:44.529 NotebookApp] Loaded extension jupyter_nbextensions_configurator
+[I 18:11:44.598 NotebookApp] JupyterLab extension loaded from /Users/wente/anaconda/lib/python2.7/site-packages/jupyterlab
+[I 18:11:44.598 NotebookApp] JupyterLab application directory is /Users/wente/anaconda/share/jupyter/lab
+[I 18:11:44.622 NotebookApp] Serving notebooks from local directory: /Users/wente/Library/Mobile Documents/com~apple~CloudDocs/基础算法
+[I 18:11:44.622 NotebookApp] The Jupyter Notebook is running at:
+[I 18:11:44.623 NotebookApp] http://127.0.0.1:8889/?token=cba500544b4f0d2642a2115fcb6da91d0ced285e42db7bb9
+[I 18:11:44.623 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:11:44.632 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/wente/Library/Jupyter/runtime/nbserver-45871-open.html
+    Or copy and paste one of these URLs:
+        http://127.0.0.1:8889/?token=cba500544b4f0d2642a2115fcb6da91d0ced285e42db7bb9
+[I 18:12:37.142 NotebookApp] Kernel started: 13219727-512b-41a1-aeda-b2726acf60d3
+[I 18:12:39.271 NotebookApp] Adapting to protocol v5.1 for kernel 13219727-512b-41a1-aeda-b2726acf60d3
+[I 18:12:53.770 NotebookApp] Saving file at /215.数组中的第k个最大元素 堆.ipynb
+[I 18:12:59.009 NotebookApp] Saving file at /215.数组中的第k个最大元素 堆.ipynb
+[I 18:12:59.211 NotebookApp] Saving file at /215.数组中的第k个最大元素 堆.ipynb
+[I 18:12:59.426 NotebookApp] Saving file at /215.数组中的第k个最大元素 堆.ipynb
+[I 18:20:37.011 NotebookApp] Saving file at /215.数组中的第k个最大元素 堆.ipynb
+[I 18:20:37.217 NotebookApp] Saving file at /215.数组中的第k个最大元素 堆.ipynb
+[I 18:25:46.939 NotebookApp] Creating new notebook in /List
+[I 18:25:49.340 NotebookApp] Kernel started: 34001371-8e3c-433e-b140-b183a0d8d66c
+[I 18:25:51.198 NotebookApp] Adapting to protocol v5.1 for kernel 34001371-8e3c-433e-b140-b183a0d8d66c
+[I 18:27:50.168 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 18:59:54.598 NotebookApp] Creating new notebook in /List
+[I 18:59:59.375 NotebookApp] Kernel started: 45083bfd-01dc-4965-b7f6-9f633df61aa0
+[I 19:00:02.010 NotebookApp] Adapting to protocol v5.1 for kernel 45083bfd-01dc-4965-b7f6-9f633df61aa0
+[I 19:00:54.669 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:00:54.816 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:00:59.863 NotebookApp] Starting buffering for 13219727-512b-41a1-aeda-b2726acf60d3:dad091216b844008ae117d9f06daa7f2
+[I 19:02:00.391 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:03:59.493 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:06:00.385 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:07:59.498 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:09:59.497 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:10:29.846 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:11:57.029 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:18:12.446 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:18:36.127 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:18:36.651 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:18:36.846 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:18:37.029 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:18:37.213 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:18:37.419 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:18:37.885 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:18:38.049 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:18:38.216 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:20:19.859 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:20:35.383 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:20:36.691 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:20:36.888 NotebookApp] Saving file at /List/083_删除排序链表中的重复元素_E.ipynb
+[I 19:23:50.298 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:27:12.774 NotebookApp] Starting buffering for 45083bfd-01dc-4965-b7f6-9f633df61aa0:bfb6576badb94a6a9c3274e38fc9e21e
+[I 19:27:49.453 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:29:50.293 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:30:19.935 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:30:50.115 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:32:53.129 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:33:51.440 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:37:49.481 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:38:07.598 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:38:07.791 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:38:08.003 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:39:26.633 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:39:38.352 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:41:28.329 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:41:38.425 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:41:44.948 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:49:49.505 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:50:30.470 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:51:49.512 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:52:08.110 NotebookApp] Saving file at /List/328. 奇偶链表.ipynb
+[I 19:54:30.302 NotebookApp] Starting buffering for 34001371-8e3c-433e-b140-b183a0d8d66c:2576fbf3639b497b90a70d0b6047676c
+[I 19:54:39.975 NotebookApp] Creating new notebook in /number
+[I 19:54:42.455 NotebookApp] Kernel started: 7f7b791d-4566-4c09-96d8-0b864e1f1c71
+[I 19:54:43.792 NotebookApp] Adapting to protocol v5.1 for kernel 7f7b791d-4566-4c09-96d8-0b864e1f1c71
+[I 19:55:10.843 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 19:56:43.780 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 20:00:42.448 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 20:02:25.319 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 20:02:42.449 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 20:03:02.715 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 20:03:05.671 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 20:04:39.521 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 20:04:42.459 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 20:04:49.161 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 20:04:59.004 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 20:04:59.544 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 20:04:59.706 NotebookApp] Saving file at /number/454.四数相加 II M.ipynb
+[I 09:30:29.939 NotebookApp] Starting buffering for 7f7b791d-4566-4c09-96d8-0b864e1f1c71:74fe19518bb04ca58034e35043482a70
+[I 09:48:25.778 NotebookApp] 302 GET / (127.0.0.1) 27.98ms
+[I 09:55:04.190 NotebookApp] Adapting to protocol v5.1 for kernel 6f312a28-bfa2-46ab-a67e-77f73199907b
+[I 09:56:29.628 NotebookApp] Saving file at /基础算法总结.md
+[I 09:56:32.636 NotebookApp] Saving file at /基础算法总结.md
+[I 09:57:02.191 NotebookApp] Saving file at /基础算法总结.md
+[I 09:57:14.266 NotebookApp] Kernel started: 913ca3a7-a2e7-4f2a-ae15-c960de27702b
+[I 09:57:15.735 NotebookApp] Adapting to protocol v5.1 for kernel 913ca3a7-a2e7-4f2a-ae15-c960de27702b
+[I 09:57:44.105 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 09:57:54.362 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 10:00:08.708 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 10:00:09.186 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 10:00:09.372 NotebookApp] Saving file at /Array/041 缺失的第一个正数 python.ipynb
+[I 10:02:09.005 NotebookApp] Saving file at /基础算法总结.md
+[I 10:02:16.935 NotebookApp] Saving file at /基础算法总结.md
+[I 10:02:17.336 NotebookApp] Saving file at /基础算法总结.md
+[I 10:02:17.543 NotebookApp] Saving file at /基础算法总结.md
+[I 10:02:17.799 NotebookApp] Saving file at /基础算法总结.md
+[I 10:02:18.000 NotebookApp] Saving file at /基础算法总结.md
+[I 10:02:18.154 NotebookApp] Saving file at /基础算法总结.md
+[I 10:02:38.727 NotebookApp] Kernel started: 499bd966-2d8f-4ce6-8f17-89f509b20e8a
+[I 10:02:41.358 NotebookApp] Kernel started: 5d66a23d-cebc-4aa1-aa96-71b4baef3a1f
+[I 10:02:42.104 NotebookApp] Adapting to protocol v5.1 for kernel 499bd966-2d8f-4ce6-8f17-89f509b20e8a
+[I 10:02:43.634 NotebookApp] Adapting to protocol v5.1 for kernel 5d66a23d-cebc-4aa1-aa96-71b4baef3a1f
+[I 10:02:44.294 NotebookApp] Kernel started: de66924c-4c9f-4c8c-8541-e885e2b7162e
+[I 10:02:45.075 NotebookApp] Adapting to protocol v5.1 for kernel de66924c-4c9f-4c8c-8541-e885e2b7162e
+[I 10:02:57.058 NotebookApp] Starting buffering for 5d66a23d-cebc-4aa1-aa96-71b4baef3a1f:4e8734141d1c401b9ebcbda50633873f
+[I 10:04:22.191 NotebookApp] Saving file at /基础算法总结.md
+[I 10:04:22.911 NotebookApp] Saving file at /基础算法总结.md
+[I 10:05:07.977 NotebookApp] Saving file at /基础算法总结.md
+[I 10:05:08.461 NotebookApp] Saving file at /基础算法总结.md
+[I 10:05:08.660 NotebookApp] Saving file at /基础算法总结.md
+[I 10:05:08.826 NotebookApp] Saving file at /基础算法总结.md
+[I 10:05:14.178 NotebookApp] Saving file at /基础算法总结.md
+[I 10:05:14.790 NotebookApp] Saving file at /基础算法总结.md
+[I 10:05:30.556 NotebookApp] Saving file at /基础算法总结.md
+[I 10:06:14.689 NotebookApp] Saving file at /基础算法总结.md
+[I 10:06:55.407 NotebookApp] Saving file at /基础算法总结.md
+[I 10:11:10.773 NotebookApp] Starting buffering for 913ca3a7-a2e7-4f2a-ae15-c960de27702b:5a23a9f52e5c4055896ef0723f4e28ad
+[I 10:11:39.584 NotebookApp] Kernel started: 7e9d7c2e-cb91-445e-b77b-5b2b8c46c310
+[I 10:11:40.982 NotebookApp] Adapting to protocol v5.1 for kernel 7e9d7c2e-cb91-445e-b77b-5b2b8c46c310
+[I 10:13:39.578 NotebookApp] Saving file at /String/KMP 算法.ipynb
+[I 10:18:59.614 NotebookApp] Kernel started: 78d9b819-74a3-45e2-97f9-3c37386b00b5
+[I 10:19:01.020 NotebookApp] Adapting to protocol v5.1 for kernel 78d9b819-74a3-45e2-97f9-3c37386b00b5
+[I 10:20:44.418 NotebookApp] Saving file at /String/无重复字符的最长子串.ipynb
+[I 10:21:46.557 NotebookApp] Saving file at /String/无重复字符的最长子串.ipynb
+[I 10:22:04.030 NotebookApp] Saving file at /String/无重复字符的最长子串.ipynb
+[I 10:22:25.761 NotebookApp] Saving file at /String/无重复字符的最长子串.ipynb
+[I 10:22:26.547 NotebookApp] Saving file at /String/无重复字符的最长子串.ipynb
+[I 10:22:26.742 NotebookApp] Saving file at /String/无重复字符的最长子串.ipynb
+[I 10:22:26.911 NotebookApp] Saving file at /String/无重复字符的最长子串.ipynb
+[I 10:22:30.355 NotebookApp] Saving file at /基础算法总结.md
+[I 10:29:23.655 NotebookApp] Kernel started: 8bcf35c8-589e-4eec-bcf4-c5c116858248
+[I 10:29:26.102 NotebookApp] Adapting to protocol v5.1 for kernel 8bcf35c8-589e-4eec-bcf4-c5c116858248
+[I 10:29:29.076 NotebookApp] Kernel started: d711b8ba-cbe4-49a1-a1c4-d1529b1beb13
+[I 10:29:30.573 NotebookApp] Adapting to protocol v5.1 for kernel d711b8ba-cbe4-49a1-a1c4-d1529b1beb13
+[I 10:29:48.465 NotebookApp] Kernel started: 003b439f-c4dc-4804-8f1f-dc36b10bb420
+[I 10:29:50.348 NotebookApp] Adapting to protocol v5.1 for kernel 003b439f-c4dc-4804-8f1f-dc36b10bb420
+[I 10:30:31.073 NotebookApp] Saving file at /基础算法总结.md
+[I 10:33:48.547 NotebookApp] Saving file at /String/139. 单词拆分.ipynb
+[I 10:52:48.702 NotebookApp] Starting buffering for d711b8ba-cbe4-49a1-a1c4-d1529b1beb13:988d364ae7304b5c805e8788919c267f
+[I 11:21:21.561 NotebookApp] Starting buffering for 7e9d7c2e-cb91-445e-b77b-5b2b8c46c310:3c7d17bcd29341f0b52435a865841f21
+[I 11:21:22.287 NotebookApp] Starting buffering for 78d9b819-74a3-45e2-97f9-3c37386b00b5:75dd69f41ae2481b9e9883eeeb0cdba6
+[I 11:21:25.791 NotebookApp] Starting buffering for 6f312a28-bfa2-46ab-a67e-77f73199907b:441a6ebb85554956b01924375728fcc8
+[I 11:31:37.533 NotebookApp] Starting buffering for de66924c-4c9f-4c8c-8541-e885e2b7162e:3d058bcf855d4d50895d596f21049811
+[I 11:31:40.191 NotebookApp] Starting buffering for 499bd966-2d8f-4ce6-8f17-89f509b20e8a:9e1f74b865b14e728c81393e9450e147
+[I 11:32:26.865 NotebookApp] Saving file at /String/139. 单词拆分.ipynb
+[I 11:32:27.472 NotebookApp] Saving file at /String/139. 单词拆分.ipynb
+[I 11:32:27.666 NotebookApp] Saving file at /String/139. 单词拆分.ipynb
+[I 11:32:27.845 NotebookApp] Saving file at /String/139. 单词拆分.ipynb
+[I 11:32:29.291 NotebookApp] Saving file at /String/139. 单词拆分.ipynb
+[I 11:32:29.474 NotebookApp] Saving file at /String/139. 单词拆分.ipynb
+[I 11:32:29.642 NotebookApp] Saving file at /String/139. 单词拆分.ipynb
+[I 13:18:53.750 NotebookApp] Starting buffering for 003b439f-c4dc-4804-8f1f-dc36b10bb420:6349a7c0f73f4baa84395868a39d493c
+[I 13:18:53.766 NotebookApp] Starting buffering for 8bcf35c8-589e-4eec-bcf4-c5c116858248:c4651240b48840e49ac1883cf7467484
+[W 15:50:21.348 NotebookApp] Cannot bind to localhost, using 127.0.0.1 as default ip
+    [Errno 8] nodename nor servname provided, or not known
+[I 15:50:22.080 NotebookApp] Loaded extension jupyter_nbextensions_configurator
+[I 15:50:22.158 NotebookApp] JupyterLab extension loaded from /Users/wente/anaconda/lib/python2.7/site-packages/jupyterlab
+[I 15:50:22.158 NotebookApp] JupyterLab application directory is /Users/wente/anaconda/share/jupyter/lab
+[I 15:50:22.183 NotebookApp] Serving notebooks from local directory: /Users/wente/Library/Mobile Documents/com~apple~CloudDocs/基础算法
+[I 15:50:22.183 NotebookApp] The Jupyter Notebook is running at:
+[I 15:50:22.184 NotebookApp] http://127.0.0.1:8888/?token=eecb4cd920a5b246cbb60d0ae8b60816b96bf7c0c992152c
+[I 15:50:22.184 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:50:22.193 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/wente/Library/Jupyter/runtime/nbserver-21569-open.html
+    Or copy and paste one of these URLs:
+        http://127.0.0.1:8888/?token=eecb4cd920a5b246cbb60d0ae8b60816b96bf7c0c992152c
+[I 15:50:32.969 NotebookApp] Creating new notebook in /动态规划问题
+[I 15:50:36.712 NotebookApp] Kernel started: 25c521a1-21fd-4b6c-98fb-5705c21888fa
+[I 15:50:38.447 NotebookApp] Adapting to protocol v5.1 for kernel 25c521a1-21fd-4b6c-98fb-5705c21888fa
+[I 15:52:37.702 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 15:58:36.657 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 16:00:37.793 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 17:22:36.946 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 17:24:38.126 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 17:28:38.138 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 17:34:37.730 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 17:38:38.153 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 17:40:37.945 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 19:48:38.481 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 19:50:38.085 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 19:54:37.178 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 19:56:38.449 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 19:58:37.183 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 20:08:37.227 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 20:09:48.131 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 20:10:12.054 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 20:10:37.215 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 20:12:37.219 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 20:14:37.242 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 20:16:37.648 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 20:18:38.576 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 20:18:42.626 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 20:18:42.841 NotebookApp] Saving file at /动态规划问题/072 编辑距离.ipynb
+[I 20:18:43.737 NotebookApp] Starting buffering for 25c521a1-21fd-4b6c-98fb-5705c21888fa:570a803c952a4c7a9800f651a42a3eaf
