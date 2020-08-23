@@ -41,9 +41,25 @@ class Solution(object):
         :rtype: int
         """
         memo  = {}
-        
         def dp(i,j):
-            p
-        
+            sub = s[i:j]
+            if sub in memo:
+                return memo[sub]
+            if len(set(sub)) == len(sub):
+                res =  len(sub)
+            else:
+                res = max(dp(i +1, j), dp(i, j -1))
+
+            memo[sub] = res
+            return res
         return dp(0, len(s))
-        
+    
+t = Solution()
+res = t.lengthOfLongestSubstring("abcabcbb")
+print res,3
+
+res = t.lengthOfLongestSubstring("bbbbb")
+print res, 1
+
+res = t.lengthOfLongestSubstring("pwwkew")
+print res, 3
